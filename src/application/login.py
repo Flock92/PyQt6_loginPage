@@ -80,7 +80,7 @@ class LoginForm(QWidget):
 
     QPushButton:focus {
         border: 1px solid rgba(222, 222, 222, 0.5);
-        border-radius: 7px;
+        border-radius: 10px;
         background: rgba(222, 222, 222, 0.5);
     }
 
